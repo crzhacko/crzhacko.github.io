@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Java - 엘리먼트와 함께 List를 생성하는 방법"
+title: "Java - 엘리먼트 추가와 함께 List를 생성하는 방법"
 date: 2019-10-26 22:16:12 +0900
 categories: java
 ---
 
-자바(Java)에서는 `List`를 엘리먼트 추가와 동시에 생성하는 방법이 다양하게 제공되고 있다. jdk 8 이하 버전에서 지원되는 방법 몇 가지를 살펴보겠다. 중 몇 가지는 다음과 같다.
+자바(Java)에서는 `List`를 엘리먼트 추가와 동시에 생성하는 방법이 다양하게 제공되고 있다. jdk 8 이하 버전에서 지원되는 방법 중 몇 가지는 다음과 같다.
 
 {% highlight java %}
 import java.util.ArrayList;
@@ -51,3 +51,7 @@ public class Main {
 소스코드는 Github Repository [initialize-list-with-elements]에 공유되어 있다.
 
 [initialize-list-with-elements]: https://github.com/crzhacko/initialize-list-with-element
+[//]: # "Java - 엘리먼트 추가와 함께 List를 생성하기"
+[//]: # "Java - 엘리먼트 추가와 함께 ArrayList를 생성하기"
+[//]: # "Java - List 한 줄로 생성"
+[//]: # "Java - ArrayList 한 줄로 생성"
