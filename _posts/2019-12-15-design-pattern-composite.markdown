@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Java - 엘리먼트 추가와 함께 List를 생성하는 방법"
-date: 2019-10-26 22:16:12 +0900
-categories: java
+title: "Composite - 그릇과 내용물을 동일시하기"
+date: 2019-12-15 11:35:12 +0900
+categories: pattern
 published: false
 ---
 
